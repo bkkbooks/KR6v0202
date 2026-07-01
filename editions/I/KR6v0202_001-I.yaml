@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0202/i/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惟大魏太和廿三年歲次己卯四月丙午朔八日癸丑諸軍事平東將軍營州刺史元景上為皇帝陛下敬造石窟一區夫靈覺沖虛非像無以筌其形妙門潛寂非唱生滅昧識於慧旦將以輪迴塵網纏服衰弊矣釋加如來契慈心於因初達妙致於遐劫揖慧舟以拯溺夷阻濟艱人天仰德功蓋我皇代受命光日新景福增崇聖皇帝陛下誕稟高振古遊神虛宗興援及州鎮靡不況景藉蔭洪根土雖麗豈同巖石之固於州城東北一百暨浩滄右帶龍川臨清流以藻穢背脩巒明可以軌矚東民信之威訓穆然存道久皇帝陛下資化無為一同率土享祚齊明元皇帝栖神常住降及一切普沾是詣速證大果又願己身并諸眷屬文靡述國之休祉可無稱乎故於石玄覺體空真公誰究竟悟茲空有同照無微調風灑澤懷詳陟人合想作彫巖鏤飾建茲華窟投心請慶仰願聖上願明元神栖妙宮受道
+  hash: sha256:0f487c32609524eec6d74a7721caecf2bfa296b519687beb2bf99b707de9a533
+  markers:
+  - {type: 'cbeta:juan-start', offset: 0, content: 元景造石窟記, id: KR6v0202_I_001-juan-start, juan_n: '001', jhead: 元景造石窟記}
+metadata:
+  title: 元景造石窟記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0003.xml
+    old_id: I01n0003
+hash: sha256:e12eddd7ef4916f68e412d4f8255affc24146610f1cda54514e63022583aff28

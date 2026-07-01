@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6v0202/i/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 元景造石窟記
+  edition:
+    short: i
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/I/I01/I01n0003.xml
+    old_id: I01n0003
+hash: sha256:e67fb2f26ef79dcefe4009b1582101c6a93d86301eee87ef6df901fc95884403
