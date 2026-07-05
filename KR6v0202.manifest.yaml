@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6v0202_000.yaml, hash: 'sha256:e67fb2f26ef79dcefe4009b1582101c6a93d86301eee87ef6df901fc95884403'}
-  - {seq: 1, filename: KR6v0202_001.yaml, hash: 'sha256:ea2f8f9042bee83aa516565fe0de8ce929a6727e6a8b1aa87cf4df256e20ace7'}
+  - {seq: 1, filename: KR6v0202_001.yaml, hash: 'sha256:e12eddd7ef4916f68e412d4f8255affc24146610f1cda54514e63022583aff28'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0202_001.markers.yaml, hash: 'sha256:9ad4d2383fdf0341e79581c159cc318ee49e44d787c7bfb341df08c268f3632a'}
+  - {seq: 0, role: markers, filename: assets/KR6v0202_000.markers.yaml, hash: 'sha256:951f9cebed2a8bb94eac553752075bf51c616e6e58527a200dfb90abde76ab59'}
+  - {seq: 1, role: markers, filename: assets/KR6v0202_001.markers.yaml, hash: 'sha256:15a622780216a264c9838ea2e1d462312baccc6f10044586f8d919eb5cb5a0e7'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 元景造石窟記
   type: juan
   level: 1
-hash: sha256:0c624a8e94169618da155ca7660f645f688e8b34c4d9f4c5931b0f251115bd40
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:8d4f0959b1aef0ac913eae757e08d6c9e40b029f651fe56fd152112e29ab8a86
